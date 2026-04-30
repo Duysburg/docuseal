@@ -19,7 +19,6 @@ variable "os_type" {
   type        = string
 }
 
-# TODO: add "name" variable definition
-variable "name"{
+variable "name" {
   type        = string
 }
